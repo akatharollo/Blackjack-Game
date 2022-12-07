@@ -1,2 +1,2 @@
 # Blackjack-Game
-Black Jack game learned on Scrimba in JavaScript
+Black Jack game learned on Scrimba in JavaScript Course
